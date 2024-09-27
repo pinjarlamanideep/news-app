@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Josh Wingrove, Jennifer Jacobs and Eric Martin",
+      "title": "Biden Set to Impose Tariffs on China EVs, Strategic Sectors - Yahoo Finance",
+      "description": "(Bloomberg) -- President Joe Biden’s administration is poised to unveil a sweeping decision on China tariffs as soon as next week, one that’s expected to...",
+      "url": "https://finance.yahoo.com/news/biden-poised-impose-tariffs-china-004511416.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BKk7EiuLdYA_0evchOolgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTk-/https://media.zenfs.com/en/bloomberg_technology_68/21eca13cd89782b36f22f05f72544bc6",
+      "publishedAt": "2024-05-10T09:02:26Z",
+      "content": "(Bloomberg) -- President Joe Bidens administration is poised to unveil a sweeping decision on China tariffs as soon as next week, one thats expected to target key strategic sectors while rejecting th… [+6357 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NPR" },
+      "author": "Bill Chappell",
+      "title": "California says restaurants must bake all of their add-on fees into menu prices - NPR",
+      "description": "Service charges; resort fees; \"surcharge\" add-ons: A new state law requiring price transparency is set to take effect in July. Until now, no one knew how it would apply to restaurants.",
+      "url": "https://www.npr.org/2024/05/10/1249930674/california-restaurants-fees",
+      "urlToImage": "https://media.npr.org/assets/img/2024/05/09/restaurant-fees-check-bill-law_wide-ce60af5d144f3aa056fe6ed471a88d1749c60262.jpg?s=1400&c=100&f=jpeg",
+      "publishedAt": "2024-05-10T09:01:05Z",
+      "content": "If a California restaurant violates a new law requiring transparent pricing, it allows a consumer to seek \"actual damages of at least $1,000.\"\r\nPhotobuff / Getty Images\r\nService charges; resort fees;… [+10098 chars]"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Axios",
+      "title": "UN aid agency says Israelis set fire to its East Jerusalem headquarters - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2024/05/09/israel-fire-palestinian-aid-refugee-jerusalem",
+      "urlToImage": null,
+      "publishedAt": "2024-05-10T08:28:52Z",
+      "content": null
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Suban Abdulla, David Milliken",
+      "title": "UK exits recession with fastest growth in nearly three years - Reuters UK",
+      "description": "Britain's economy grew by the most in nearly three years in the first quarter of 2024, ending the shallow recession it entered in the second half of last year and delivering a boost to Prime Minister Rishi Sunak ahead of an election.",
+      "url": "https://www.reuters.com/world/uk/uk-economy-grows-by-06-first-quarter-ons-data-shows-2024-05-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/WP6CJG7VUFJAZF6PDZ4TEGUSWU.jpg?auth=23b7452b91bc5dc72352e20c50021935c12081c1f6385fa961c4f80abfde803b&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-05-10T07:45:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Harvard Crimson" },
+      "author": null,
+      "title": "Pro-Palestine Students Reject Harvard President's Proposal to End Encampment | News - Harvard Crimson",
+      "description": "Members of the pro-Palestine encampment rejected a proposal from interim University President Alan M. Garber ’76 to end their two-week occupation of Harvard Yard and avoid receiving involuntary leave of absence notices.",
+      "url": "https://www.thecrimson.com/article/2024/5/10/protesters-reject-proposal-encampment/",
+      "urlToImage": "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2024/04/26/115148_1371058.jpg.2000x1333_q95_crop-smart_upscale.jpg",
+      "publishedAt": "2024-05-10T07:00:00Z",
+      "content": "Updated May 10, 2024, at 2:11 a.m.\r\nMembers of the pro-Palestine encampment rejected a proposal from interim University President Alan M. Garber 76 to end their two-week occupation of Harvard Yard an… [+6090 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Gaza war: Netanyahu says Israel can 'stand alone' if US halts arms shipments - BBC.com",
+      "description": "Israeli leader says his country will \"stand alone\" and \"fight with fingernails\" if shipments are halted.",
+      "url": "https://www.bbc.com/news/world-middle-east-68980826",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/53BF/production/_133293412_netanyahu.jpg",
+      "publishedAt": "2024-05-10T06:11:15Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Nicole Chavez",
+      "title": "Virginia school board votes to restore Confederate names to two schools - CNN",
+      "description": "School board members in Virginia’s Shenandoah County voted early Friday to restore the names of two schools that previously honored Confederate leaders – four years after those names had been removed.",
+      "url": "https://www.cnn.com/2024/05/09/us/shenandoah-county-confederate-school-names-reaj/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/h-15705343.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-10T05:26:00Z",
+      "content": "School board members in Virginias Shenandoah County voted early Friday to restore the names of two schools that previously honored Confederate leaders four years after those names had been removed.\r\n… [+5469 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NPR" },
+      "author": "The Associated Press",
+      "title": "Senate passes bill designed to improve air safety and service for travelers - NPR",
+      "description": "The Senate passed a bill designed to improve safety and customer service for air travelers, a day before the law governing the Federal Aviation Administration expires.",
+      "url": "https://www.npr.org/2024/05/10/1250399425/senate-passes-faa-reauthorization-bill-sending-bill-to-house",
+      "urlToImage": "https://media.npr.org/assets/img/2024/05/10/ap24129729327214_wide-bf3a5f1ba0b5af17c59c628246b650da96ce4a70.jpg?s=1400&c=100&f=jpeg",
+      "publishedAt": "2024-05-10T05:24:04Z",
+      "content": "Senate Majority Leader Chuck Schumer, D-N.Y., speaks to reporters following Democratic strategy session, at the Capitol in Washington on Wednesday.\r\nJ. Scott Applewhite/AP\r\nWASHINGTON The Senate has … [+6035 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Ryan Young",
+      "title": "NBA playoffs: Luka Dončić, Mavericks fend off Thunder in Game 2 to tie series - Yahoo Sports",
+      "description": "P.J. Washington dropped a playoff career-high 29 points to help the Mavericks pull off a huge win in Game 2 on Thursday night.",
+      "url": "https://sports.yahoo.com/nba-playoffs-luka-doncic-mavericks-fend-off-thunder-in-game-2-to-tie-series-041203241.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YADTFxMdY5I8Tr.2rav6xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/6c2d1a80-0e81-11ef-baf5-4b156d8ae91a",
+      "publishedAt": "2024-05-10T04:29:35Z",
+      "content": "Luka Doni and the Dallas Mavericks are back in it.\r\nThe Mavericks, after a blowout loss to kick off the series, powered past the Oklahoma City Thunder119-110 on Thursday night at the Paycom Center. T… [+3055 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Jayson Tatum on Game 2 Loss to Cavs: 'The world thinks we're never supposed to lose' - Bleacher Report",
+      "description": "Jayson Tatum spoke postgame after the Celtics blowout loss to the Cavaliers in Game 2.Subscribe: https://www.youtube.com/user/BleacherReport?sub_confirmation...",
+      "url": "https://www.youtube.com/watch?v=wExNif-GGXo",
+      "urlToImage": "https://i.ytimg.com/vi/wExNif-GGXo/maxresdefault.jpg",
+      "publishedAt": "2024-05-10T04:16:25Z",
+      "content": null
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "ASSOCIATED PRESS",
+      "title": "Killing of an airman by Florida deputy is among cases of Black people being shot in their homes - The Associated Press",
+      "description": "The fatal shooting of a U.S. Air Force airman at his off-base apartment by a Florida sheriff’s deputy brings to mind other instances of Black people being killed by law enforcement in their own homes as they’re going about their day. Senior Airman Roger Forts…",
+      "url": "https://apnews.com/article/police-shootings-home-roger-fortson-death-6e8db776663b684d878917e6b7ea4e57",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e01c3c8/2147483647/strip/true/crop/4000x2250+0+685/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdd%2F30%2Fe9097fce0ba61f51f356e6e82c56%2Facdb6574b7d046f8b9807ae52b3ea3a5",
+      "publishedAt": "2024-05-10T04:15:00Z",
+      "content": "The fatal shooting of a U.S. Air Force airman at his off-base apartment in the Florida Panhandle by a sheriffs deputy brings to mind other instances of Black people being killed by law enforcement in… [+4964 chars]"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Axios",
+      "title": "\"Severe\" solar storm could bring Northern Lights to U.S. this weekend - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2024/05/10/severe-solar-storm-northern-lights",
+      "urlToImage": null,
+      "publishedAt": "2024-05-10T04:13:25Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "The Hill",
+      "title": "Stormy Daniels trolls Trump after testifying in hush money trial - The Hill",
+      "description": null,
+      "url": "https://thehill.com/regulation/court-battles/4655381-stormy-daniels-trolls-trump-after-testifying-in-hush-money-trial/",
+      "urlToImage": null,
+      "publishedAt": "2024-05-10T02:22:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Eonline.com" },
+      "author": "Lindsay Weinberg",
+      "title": "Justin Bieber's Exes Sofia Richie, Caitlin Beadles React to Pregnancy - E! NEWS",
+      "description": "Justin Bieber’s exes Sofia Richie and Caitlin Beadles—who he dated in 2016 and 2008, respectively—shared their reactions to Hailey Bieber's pregnancy.",
+      "url": "https://www.eonline.com/news/1401316/justin-biebers-exes-sofia-richie-and-caitlin-beadles-react-to-hailey-biebers-pregnancy",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202449/rs_1200x1200-240509174213-citlin_sofia.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2024-05-10T01:25:00Z",
+      "content": "Never say never to Justin Bieber getting support from his ex-girlfriends.\r\nAfter the singer and wife Hailey Bieber revealed they're expecting their first baby, the couple was showered with well-wishe… [+1078 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Reuters",
+      "title": "ChatGPT maker OpenAI to unveil Google search competitor on Monday: sources - New York Post ",
+      "description": "OpenAI’s search product is an extension of its flagship ChatGPT product, and enables ChatGPT to pull in direct information from the Web and include citations.",
+      "url": "https://nypost.com/2024/05/09/business/chatgpt-maker-openai-to-unveil-google-search-competitor-on-monday-sources/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/openai-chatgpt-google.jpg?quality=75&strip=all&1715279647&w=1024",
+      "publishedAt": "2024-05-10T00:59:00Z",
+      "content": "OpenAI plans to announce its artificial intelligence-powered search product on Monday, according to two sources familiar with the matter, raising the stakes in its competition with search king Google… [+2628 chars]"
+    },
+    {
+      "source": { "id": "nbc-news", "name": "NBC News" },
+      "author": "Brittany Lane, Doha Madani",
+      "title": "Miss USA’s resignation letter accuses the organization of toxic work culture - NBC News",
+      "description": "The Miss USA who gave up her crown and title this week accused the pageant’s CEO of failing to take an incident of sexual harassment seriously and creating a toxic work environment, according to a copy of her resignation letter obtained Thursday by NBC News.",
+      "url": "https://www.nbcnews.com/news/us-news/miss-usa-resignation-letter-toxic-work-culture-rcna151582",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-05/240506-Miss-USA-Noelia-Voigt-se-306p-90ae33.jpg",
+      "publishedAt": "2024-05-10T00:28:00Z",
+      "content": "In her resignation letter, Voigt said that Miss USA CEO and President Laylah Rose consistently failed to communicate and that when she did, she was often cold and unnecessarily aggressive.\r\nIts incre… [+3560 chars]"
+    },
+    {
+      "source": { "id": null, "name": "9to5Mac" },
+      "author": "Filipe Espósito",
+      "title": "M4 iPad Pro lacks always-on display despite OLED panel with variable refresh rate - 9to5Mac",
+      "description": "One of the biggest highlights of the new iPad Pro is the OLED display for the first time on an...",
+      "url": "https://9to5mac.com/2024/05/09/m4-ipad-pro-always-on-display-oled/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/m4-ipad-pro-vs-m2-conclusion.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-10T00:16:00Z",
+      "content": "One of the biggest highlights of the new iPad Pro is the OLED display for the first time on an iPad. Although the technology has been around for a while in the iPhone and Apple Watch, previous iPads … [+2106 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Brenda Goodman, Nadia Kounang",
+      "title": "Cows have human flu receptors, study shows, raising stakes on bird flu outbreak in dairy cattle - CNN",
+      "description": "Cows have the same kinds of gateways into their cells as humans and birds, a new study shows. The finding suggests that cows could be mixing bowls - hosts that could help H5N1 bird flu learn to spread in humans.",
+      "url": "https://www.cnn.com/2024/05/09/health/bird-flu-cows-human-receptors/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2139565276.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-09T23:56:00Z",
+      "content": "In early March, Dr. Barb Petersen, a large-animal vet in Texas, began getting calls from the dairy farms she works with in the Panhandle. Workers there were seeing a lot of cows with mastitis, an inf… [+9257 chars]"
+    },
+    {
+      "source": { "id": "nbc-news", "name": "NBC News" },
+      "author": "Katherine Doyle",
+      "title": "What you missed on Day 14 of Trump's hush money trial in Manhattan - NBC News",
+      "description": "Judge Juan Merchan issued two rulings against Trump involving the gag order and a mistrial motion after the court heard from Daniels and three other witnesses.",
+      "url": "https://www.nbcnews.com/politics/donald-trump/missed-day-14-trumps-hush-money-trial-manhattan-rcna151563",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-05/240509-donald-trump-ew-430p-35c101.jpg",
+      "publishedAt": "2024-05-09T23:38:10Z",
+      "content": "Attorneys for former President Donald Trump sought to pierce Stormy Daniels' credibility and motive Thursday, casting the adult film actor as someone whose retelling of their alleged sexual encounter… [+7447 chars]"
+    }
+  ]
+}
